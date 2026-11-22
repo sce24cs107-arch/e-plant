@@ -13,4 +13,4 @@ E Plant is a project focused on providing information about plants and promoting
 - Easy access to plant-related details
 
 ## Conclusion
-E Plant aims to encourage people to learn more about plants and nature.
+E Plant aims to encourage people to learn more about plants and nature
